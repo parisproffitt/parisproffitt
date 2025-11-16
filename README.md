@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hello, I'm Paris Proffitt
 
-<!--
-**parisproffitt/parisproffitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Software Developer | AI/ML Explorer  
 
-Here are some ideas to get you started:
+I'm a forward-thinking CS major passionate about building intelligent tools, automation systems, and clean digital experiences. I love taking ideas from concept → design → polished implementation, especially when they make life more efficient or help people manage complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & Tools
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+
+---
+
+## Currently Exploring
+- AI/ML fundamentals & tools  
+- Automation & intelligent task systems  
+- Clean UI/UX and scalable software architecture  
+- Strengthening my portfolio with polished, documented projects  
+
+---
+
+# Featured Projects
+
+## **Portfolio Website**
+A clean, professional online portfolio developed using Base44's backend-as-a-service, showcasing my projects, skills, and career journey in tech.  
+
+**What it includes:**  
+- About Me Section  
+- Project Gallery  
+- Skills Overview  
+- Contact Section  
+- Responsive Modern UI  
+
+**Tech Used:** HTML, CSS, JavaScript, React, Base44
+
+**Status:** Live / Ongoing Updates  
+
+---
+
+## **Synced (Task Manager Project)**  
+An AI-inspired task management tool designed as a smart assistant that helps users organize tasks through simplicity and structure.
+
+**Core Features:**  
+- Task creation & deletion  
+- Organized categories  
+- Clean UI  
+- Foundation for Future Automation & Habit-Learning Features  
+
+**Tech Used:** HTML, CSS, JavaScript, React, Framer Motion, Base44 
+
+**Future Plans:**  
+- AI-Assisted Scheduling  
+- Weekly Planning Generator  
+- Habit Analysis  
+- Notifications & Reminders  
+
+---
+
+## Future Repos (Coming Soon)
+I'm actively rebuilding and polishing my GitHub portfolio. Upcoming additions include:
+
+### ◽ Full Synced Build  
+A full standalone version of Synced with scheduling logic, habit-learning, and AI-powered automation.
+
+---
+
+## GitHub Stats
+![Paris's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+- **LinkedIn:** *www.linkedin.com/in/parisproffitt*  
+- **Email:** *parisproff@gmail.com*
