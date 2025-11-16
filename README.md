@@ -19,8 +19,8 @@ I'm a forward-thinking CS major passionate about building intelligent tools, aut
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 ---
@@ -73,14 +73,14 @@ An AI-inspired task management tool designed as a smart assistant that helps use
 ## Future Repos (Coming Soon)
 I'm actively rebuilding and polishing my GitHub portfolio. Upcoming additions include:
 
-### ◽ Full Synced Build  
+### Full Synced Build  
 A full standalone version of Synced with scheduling logic, habit-learning, and AI-powered automation.
 
 ---
 
 ## GitHub Stats
-![Paris's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Paris's GitHub stats](https://github-readme-stats.vercel.app/api?username=parisproffitt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parisproffitt&layout=compact&theme=tokyonight)
 
 ---
 
