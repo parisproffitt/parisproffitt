@@ -1,4 +1,4 @@
-# Hello, I'm Paris Proffitt
+# Hello, my name is Paris Proffitt
 
 ### Computer Science Student | Software Developer | AI/ML Explorer  
 
@@ -15,6 +15,7 @@ I'm a forward-thinking CS major passionate about building intelligent tools, aut
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **Tools & Platforms**
