@@ -82,14 +82,6 @@ An AI-inspired task management tool designed as a smart assistant that helps use
 
 ---
 
-## Future Repos (Coming Soon)
-I'm actively rebuilding and polishing my GitHub portfolio. Upcoming additions include:
-
-### Full Synced Build  
-A full standalone version of Synced with scheduling logic, habit-learning, and AI-powered automation.
-
----
-
 ## Connect With Me
 - **LinkedIn:** *www.linkedin.com/in/parisproffitt*  
 - **Email:** *parisproff@gmail.com*
