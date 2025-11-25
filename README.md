@@ -90,10 +90,9 @@ A full standalone version of Synced with scheduling logic, habit-learning, and A
 
 ---
 
-## GitHub Stats
-
-![Paris's GitHub stats](https://github-readme-stats.vercel.app/api?username=parisproffitt\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parisproffitt\&layout=compact\&theme=tokyonight)
+## GitHub Stats  
+[![Paris's GitHub stats](https://github-readme-stats.vercel.app/api?username=parisproffitt&show_icons=true&theme=tokyonight)](https://github.com/parisproffitt)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parisproffitt&layout=compact&theme=tokyonight)](https://github.com/parisproffitt)
 
 ---
 
