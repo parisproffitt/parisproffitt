@@ -1,6 +1,6 @@
 # Hello, my name is Paris Proffitt
 
-### Computer Science Student | Full-Stack & Systems Developer  
+### Computer Science Student | Full-Stack & Systems Engineer  
 
 I’m a Computer Science student focused on building scalable, real-world software systems. My interests center around full-stack development, backend architecture, cloud infrastructure, and simulation technologies. I enjoy taking projects from concept to deployment, designing reliable systems, and solving complex problems that require both technical depth and practical execution.
 
