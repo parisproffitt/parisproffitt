@@ -1,6 +1,6 @@
 # Hello, my name is Paris Proffitt
 
-### Computer Science Student | Full-Stack & Systems Engineer  
+### Software Engineer | Full-Stack & AI/ML  
 
 I’m a Computer Science student focused on building scalable, real-world software systems. My interests center around full-stack development, backend architecture, cloud infrastructure, and simulation technologies. I enjoy taking projects from concept to deployment, designing reliable systems, and solving complex problems that require both technical depth and practical execution.
 
@@ -38,8 +38,6 @@ I’m a Computer Science student focused on building scalable, real-world softwa
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
 
 ---
 
