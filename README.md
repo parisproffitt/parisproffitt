@@ -2,7 +2,9 @@
 
 ### Software Engineer | Full-Stack | AI/ML  
 
-I’m a Computer Science student focused on building scalable, real-world software systems. My interests center around full-stack development, backend architecture, cloud infrastructure, and simulation technologies. I enjoy taking projects from concept to deployment, designing reliable systems, and solving complex problems that require both technical depth and practical execution.
+I'm a Computer Science student at the University of Central Florida, building a strong foundation in software engineering while gaining hands-on experience developing real-world, mission-critical systems. Through my work, I contribute to scalable applications and technologies that have practical impact and support complex, high-stakes environments.
+
+I'm especially interested in full-stack development, simulation technologies, and systems-level software, with plans to further specialize in AI/ML through advanced study. I enjoy designing scalable architectures, building applications from front end to backend, and solving complex problems that help shape the future of modern systems.
 
 ---
 
