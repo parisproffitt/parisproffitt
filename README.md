@@ -44,21 +44,16 @@ I'm especially interested in full-stack development, simulation technologies, an
 
 ---
 
-### **Simulation & Development Tools**
+### **Simulation**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Digital Twins](https://img.shields.io/badge/Digital_Twins-555555?style=for-the-badge)
 ![Systems Simulation](https://img.shields.io/badge/Systems_Simulation-444444?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![API Integrations](https://img.shields.io/badge/API_Integrations-6C63FF?style=for-the-badge)
 
 ---
 
 ## Currently Exploring
-- AI/ML fundamentals & tools  
-- Automation & intelligent task systems  
+- AI/ML playbooks & skills 
+- Automation & intelligent systems  
 - Clean UI/UX and scalable software architecture  
 - Real-time simulation and interactive environments   
 
