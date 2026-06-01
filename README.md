@@ -1,6 +1,6 @@
 # Hello, my name is Paris Proffitt
 
-### Software Engineer | Systems, Simulation, & AI-Enabled Engineering
+### Software Engineer | Intelligent Systems | AI/ML
 
 I'm a Computer Science student at the University of Central Florida with experience building AI-enabled workflows, simulation systems, and full-stack software across defense, research, and production engineering environments.
 
